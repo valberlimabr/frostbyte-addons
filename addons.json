@@ -2,16 +2,38 @@
   {
     "name": "Deadly Boss Mods",
     "version": "4.10",
-    "url": "https://example.com/dbm-4.10.zip"
+    "url": "https://example.com/dbm-4.10.zip",
+    "folders": [
+      "DBM-Core",
+      "DBM-DefaultSkin",
+      "DBM-GUI",
+      "DBM-Icecrown",
+      "DBM-Naxx",
+      "DBM-Party-WotLK",
+      "DBM-Party-BC",
+      "DBM-ChamberOfAspects",
+      "DBM-Coliseum"
+    ]
   },
   {
     "name": "Recount",
     "version": "3.3.5a",
-    "url": "https://valberlimabr.github.io/addons/Recount335.zip"
+    "url": "https://valberlimabr.github.io/addons/Recount335.zip",
+    "folders": [
+      "Recount"
+    ]
   },
   {
     "name": "AtlasLoot",
     "version": "5.11.04",
-    "url": "https://example.com/atlasloot-5.11.04.zip"
+    "url": "https://example.com/atlasloot-5.11.04.zip",
+    "folders": [
+      "AtlasLoot",
+      "AtlasLoot_BurningCrusade",
+      "AtlasLoot_Crafting",
+      "AtlasLoot_OriginalWoW",
+      "AtlasLoot_WorldEvents",
+      "AtlasLoot_WrathoftheLichKing"
+    ]
   }
 ]
