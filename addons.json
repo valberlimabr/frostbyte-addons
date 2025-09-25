@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Deadly Boss Mods",
+    "version": "4.10",
+    "url": "https://example.com/dbm-4.10.zip"
+  },
+  {
+    "name": "Recount",
+    "version": "3.3.5a",
+    "url": "https://valberlimabr.github.io/addons/Recount335.zip"
+  },
+  {
+    "name": "AtlasLoot",
+    "version": "5.11.04",
+    "url": "https://example.com/atlasloot-5.11.04.zip"
+  }
+]
