@@ -1,7 +1,7 @@
 [
   {
     "name": "Deadly Boss Mods",
-    "version": "4.10",
+    "version": "3.3.5",
     "url": "https://valberlimabr.github.io/addons/DBM335.zip",
     "folders": [
       "DBM-AQ20",
@@ -52,7 +52,7 @@
   },
   {
     "name": "AtlasLoot",
-    "version": "5.11.04",
+    "version": "3.3.5",
     "url": "https://valberlimabr.github.io/addons/Atlasloot335.zip",
     "folders": [
       "AtlasLoot",
@@ -62,6 +62,31 @@
       "AtlasLoot_WorldEvents",
       "AtlasLoot_WrathoftheLichKing",
       "AtlasLootFu"
+    ]
+  },
+  {
+    "name": "Addon Control Panel",
+    "version": "3.3.5",
+    "url": "https://valberlimabr.github.io/addons/ACP335.zip",
+    "folders": [
+      "ACP"
+    ]
+  },
+  {
+    "name": "Quest Tradutor",
+    "version": "3.3.5",
+    "url": "https://valberlimabr.github.io/addons/QuestTradutor335.zip",
+    "folders": [
+      "QuestTradutor"
+    ]
+  },
+  {
+    "name": "Gear Score",
+    "version": "3.3.5",
+    "url": "https://valberlimabr.github.io/addons/GS335.zip",
+    "folders": [
+      "GearScore",
+      "BonusScanner"
     ]
   }
 ]
