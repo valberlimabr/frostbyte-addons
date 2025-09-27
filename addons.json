@@ -88,5 +88,14 @@
       "GearScore",
       "BonusScanner"
     ]
+  },
+   {
+    "name": "Bagnon",
+    "version": "3.3.5",
+    "url": "https://valberlimabr.github.io/addons/Bagnon335.zip.zip",
+    "folders": [
+      "GearScore",
+      "BonusScanner"
+    ]
   }
 ]
